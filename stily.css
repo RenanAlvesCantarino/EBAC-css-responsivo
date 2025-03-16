@@ -111,6 +111,10 @@ header li{
         width: 100%;
     }
 
+    .vendas img{
+        width: 100%;
+    }
+
     .vendas ul{
         display: grid;
         grid-template-columns: repeat(2,49%);
